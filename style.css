@@ -1,0 +1,18 @@
+header {
+    background-color:#6d8ce0;
+    height: 200px;
+}
+
+h1 {
+    color : white;
+
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+    
+}
+.text-blue {
+    color:blue;
+}
