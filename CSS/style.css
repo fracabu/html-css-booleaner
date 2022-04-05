@@ -1,18 +1,19 @@
 header {
     background-color:#6d8ce0;
-    height: 200px;
+    background-image:url(../img/pattern.png) ;
+    background-size: 340px;
 }
 
-h1 {
-    color : white;
-
+.main-logo{
+    width: 165px;
 }
 
-#logo {
-    width: 200px;
-    height: 200px;
+.titolo-principale{
+    font-size: 35px;  
+}
+
+.sottotitolo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
     
-}
-.text-blue {
-    color:blue;
 }
